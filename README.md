@@ -1,5 +1,5 @@
 这是一个数据结构与算法初学者的模板代码合集
-采用C++语言描述
+将《算法导论》中的伪代码翻译成了C++
 
 A Template Code Collection of a Data Structures and Algorithms Beginner
-Using C++
+The pseudocode from *Introduction to Algorithms* has been translated into C++ code.
